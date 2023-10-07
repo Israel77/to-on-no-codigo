@@ -3,6 +3,13 @@
   "displayName": "To on no codigo",
   "description": "Um tema para trazer um pouco de serotonina ao ambiente corporativo.",
   "version": "0.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/israel77/to-on-no-codigo"
+  },
+  "author": {
+    "name": "Israel Batista"
+  },
   "icon": "./icon/icon.png",
   "engines": {
     "vscode": "^1.56.0"
@@ -18,5 +25,6 @@
         "path": "./themes/dark-theme.json"
       }
     ]
-  }
+  },
+  "license": "GPL-3.0-or-later"
 }
