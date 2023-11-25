@@ -603,6 +603,15 @@
 			}
 		},
 		{
+			"name": "Annotations",
+			"scope": [
+				"storage.type.annotation.java"
+			],
+			"settings": {
+				"foreground": "#83ffea"
+			}
+		},
+		{
 			"name": "Classes",
 			"scope": "entity.name.type.namespace",
 			"settings": {
