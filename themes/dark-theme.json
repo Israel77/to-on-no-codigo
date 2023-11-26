@@ -1948,8 +1948,12 @@
 		"editorIndentGuide.background": "#69696e",
 		"editorIndentGuide.activeBackground": "#69696e",
 		"editorRuler.foreground": "#5a5a5a",
-		"editorBracketMatch.background": "#0064001a",
-		"editorBracketMatch.border": "#888888",
+		"editorBracketMatch.background": "#002d4b",
+		"editorBracketMatch.border": "#fcfc30",
+		"editorBracketHighlight.foreground1": "#fcfc30",
+		"editorBracketHighlight.foreground2": "#bc3fbc",
+		"editorBracketHighlight.foreground3": "#465eff",
+		"editorBracketHighlight.foreground4": "#83ffea",
 		"editor.foldBackground": "#264f784d",
 		"editorOverviewRuler.background": "#25252500",
 		"editorOverviewRuler.border": "#7f7f7f4d",
@@ -2101,6 +2105,6 @@
 		"breadcrumb.activeSelectionForeground": "#e0e0e0",
 		"editorGutter.commentRangeForeground": "#c5c5c5",
 		"debugExceptionWidget.background": "#333333",
-		"debugExceptionWidget.border": "#474747"
+		"debugExceptionWidget.border": "#474747",
 	}
 }
