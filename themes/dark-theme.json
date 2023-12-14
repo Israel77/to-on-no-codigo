@@ -200,7 +200,8 @@
 			"name": "js/ts variable.other.constant",
 			"scope": "variable.other.constant",
 			"settings": {
-				"foreground": "#fffc30"
+				"foreground": "#f97a70",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -2105,6 +2106,6 @@
 		"breadcrumb.activeSelectionForeground": "#e0e0e0",
 		"editorGutter.commentRangeForeground": "#c5c5c5",
 		"debugExceptionWidget.background": "#333333",
-		"debugExceptionWidget.border": "#474747",
+		"debugExceptionWidget.border": "#474747"
 	}
 }
